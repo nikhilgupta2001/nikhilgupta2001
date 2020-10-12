@@ -11,5 +11,5 @@
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 
-[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgupta2001)](https://github.com/nikhilgupta2001/github-readme-stats)
+[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgupta2001&theme=dark&show_icons=true)](https://github.com/nikhilgupta2001/github-readme-stats)
 

@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... Reactjs
 - 👯 I’m looking to collaborate on ... Open Source projects
 - 💬 Ask me about ... Web Development (MERN) 
-- 📫 How to reach me: ...guptanikhil898@gmail.com Linkedin-https://www.linkedin.com/in/nikhil-gupta-a3b827196/
+- 📫 How to reach me: ... guptanikhil898@gmail.com Linkedin-https://www.linkedin.com/in/nikhil-gupta-a3b827196/
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ...
 

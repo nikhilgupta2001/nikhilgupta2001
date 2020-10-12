@@ -16,6 +16,6 @@
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgupta2001&theme=dark&show_icons=true)](https://github.com/nikhilgupta2001/github-readme-stats)
 ### Language Usage ~ Status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html&nikhilgupta2001&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html&nikhilgupta2001&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 

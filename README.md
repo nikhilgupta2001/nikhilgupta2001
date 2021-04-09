@@ -3,7 +3,6 @@
 
 
 - 🔭 I’m currently working on ... WebDevelopment
-- 🌱 I’m currently learning ... Reactjs
 - 👯 I’m looking to collaborate on ... Open Source projects
 - 💬 Ask me about ... Web Development (MERN) 
 - 📫 How to reach me: ... guptanikhil898@gmail.com

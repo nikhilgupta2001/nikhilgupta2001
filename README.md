@@ -1,15 +1,5 @@
 ### Hi there I'm Nikhil Gupta👋
 
-
-
-- 🔭 I’m currently working on ... WebDevelopment
-- 👯 I’m looking to collaborate on ... Open Source projects
-- 💬 Ask me about ... Web Development (MERN) 
-- 📫 How to reach me: ... guptanikhil898@gmail.com
--    Linkedin: https://www.linkedin.com/in/nikhil-gupta-a3b827196/
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...
-
 ### Github Usage ~ Status
 
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgupta2001&theme=dark&show_icons=true)](https://github.com/nikhilgupta2001/github-readme-stats)

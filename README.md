@@ -12,6 +12,7 @@ I specialize in:
 - CI/CD & DevOps
 - Cloud Platforms (GCP & OpenShift)
 - Full Stack Development
+- LLD/HLD
 
 Passionate about designing high-performance systems, automation, and solving real-world engineering problems at scale.
 

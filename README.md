@@ -1,24 +1,70 @@
-### Hi there I'm Nikhil Gupta👋
+# Hi there, I'm Nikhil Gupta 👋
 
-### Github Usage ~ Status
+## Software Engineer | Java Backend Developer | Microservices & Distributed Systems Enthusiast
 
-[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=nikhilgupta2001&theme=dark&show_icons=true)](https://github.com/nikhilgupta2001/github-readme-stats)
-### Language Usage ~ Status
+Graduate from NIT Surat and currently working as a Software Engineer at Deutsche Bank with 3+ years of experience in building scalable enterprise applications and distributed systems.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html&nikhilgupta2001&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I specialize in:
+- Java & Spring Boot
+- Microservices Architecture
+- Distributed Systems
+- RESTful APIs
+- CI/CD & DevOps
+- Cloud Platforms (GCP & OpenShift)
+- Full Stack Development
 
-### Languages and Tools:
+Passionate about designing high-performance systems, automation, and solving real-world engineering problems at scale.
 
+---
 
-<img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MongoDB" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Git" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+## 🚀 About Me
 
+- 🔭 Currently working on enterprise-scale banking applications
+- 🌱 Exploring advanced System Design & Cloud Technologies
+- ⚡ Experienced in Java, Spring Boot, Angular, React, and Automation
+- ☁️ Working with OpenShift, Jenkins, Docker, GitHub Actions, and GCP
+- 💡 Interested in Backend Engineering, Scalability, and Performance Optimization
+- 📫 Reach me at: **your-email@example.com**
+- 💼 Open to exciting Software Engineering opportunities
 
+---
 
+# 📊 GitHub Stats
+
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilgupta2001&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/nikhilgupta2001)
+
+# 💻 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilgupta2001&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/nikhilgupta2001)
+
+---
+
+# 🛠️ Tech Stack & Tools
+
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=icloud&logoColor=white)
+
+### Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Cloud & DevOps
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Database & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌟 Fun Fact
+
+I enjoy building scalable systems, automating repetitive workflows, and continuously learning new technologies to create impactful software solutions.
+
+---

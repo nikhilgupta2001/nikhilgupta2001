@@ -24,7 +24,7 @@ Passionate about designing high-performance systems, automation, and solving rea
 - ⚡ Experienced in Java, Spring Boot, Angular, React, and Automation
 - ☁️ Working with OpenShift, Jenkins, Docker, GitHub Actions, and GCP
 - 💡 Interested in Backend Engineering, Scalability, and Performance Optimization
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: nikhilggupta9@gmail.com
 - 💼 Open to exciting Software Engineering opportunities
 
 ---
